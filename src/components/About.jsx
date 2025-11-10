@@ -2,7 +2,23 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const skills = [
-  'Python', 'FastAPI', 'React', 'PyTorch', 'TensorFlow', 'LangChain', 'Docker', 'AWS', 'Vector Search', 'LLMs',
+  'Python',
+  'FastAPI',
+  'React',
+  'PyTorch',
+  'TensorFlow',
+  'LangChain',
+  'Docker',
+  'AWS',
+  'Vector Search',
+  'LLMs',
+  // Added per request
+  'HTML',
+  'CSS',
+  'MySQL',
+  'MongoDB',
+  'Pandas',
+  'PowerBI',
 ];
 
 const About = () => {

@@ -10,7 +10,7 @@ const projects = [
   {
     name: 'SnoopTrade',
     href: 'https://github.com/Nags-gk/SnoopTrade',
-    img: 'https://images.unsplash.com/photo-1640340434856-803c7e99f2b8?q=80&w=1600&auto=format&fit=crop',
+    img: 'https://images.unsplash.com/photo-1559526324-593bc073d938?q=80&w=1600&auto=format&fit=crop', // stock trading related image
   },
   {
     name: 'Canvas-Go',
@@ -19,8 +19,8 @@ const projects = [
   },
   {
     name: 'Quantum ML Research',
-    href: undefined,
-    img: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop',
+    href: 'https://doi.org/10.5281/zenodo.17570822',
+    img: 'https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1600&auto=format&fit=crop', // quantum physics themed image
   },
 ];
 
